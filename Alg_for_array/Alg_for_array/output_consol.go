@@ -22,3 +22,17 @@ func Out_array(array []int) {
 	}
 	fmt.Print(" }\n")
 }
+
+func Ellipsis(str string) {
+	fmt.Print(str)
+	for {
+		fmt.Print(".")
+		time.Sleep(1 * time.Second)
+		fmt.Print(".")
+		time.Sleep(1 * time.Second)
+		fmt.Print(".")
+		time.Sleep(1 * time.Second)
+		fmt.Print(".")
+		fmt.Print("\b\b\b   \b\b\b\b")
+	}
+}

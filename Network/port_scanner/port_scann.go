@@ -43,7 +43,7 @@ func Out_info_port(open_ports []int) {
 }
 
 func Check_str_size(str string) string {
-	if len(str) == 0 {
+	if str == "" {
 		panic("Error: Empty string")
 	}
 	if str[len(str)-1] != ':' {

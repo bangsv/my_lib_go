@@ -10,3 +10,7 @@ Description of files
 - func_array
 
   Functions for an array of type int
+
+- output_consol 
+  
+  Functions that add various notes to the console,. For example: In the form of an animated colon, or a request to press a button.

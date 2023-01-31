@@ -1,7 +1,3 @@
-Lib go
-=======
-
-Library with the implementation of the algorithm for the array (search, sorting, deleting, etc.)
 
 Description of folders: 
 ===
@@ -10,4 +6,4 @@ Description of folders:
   - Creation of applications /modules related to the work of the network.
 
 - Alg_for_array
-  - A folder with functions for working with the array, there are also functions for additional. output to the console
+  - A folder with functions for working with an array, there are also functions for additional output to the console and the implementation of an algorithm for an array (search, sort, delete, etc.)

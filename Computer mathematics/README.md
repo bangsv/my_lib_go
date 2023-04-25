@@ -8,3 +8,11 @@ The works consider how complex mathematical examples and problems can be solved 
   - 2) The trapezoid formula. 
   - 3) The parabola formula. 
   - 4) The Gauss formula
+
+- lb4 
+  
+  Topic: Numerical methods for solving the Cauchy problem. In this paper, methods for calculating the Cauchy problem are considered:
+  - 1) Euler 's method
+  - 2) The Euler-Cauchy method
+  - 3) Modified Euler method
+  - 4) By the Runge-Kutta method

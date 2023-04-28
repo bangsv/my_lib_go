@@ -16,3 +16,7 @@ The works consider how complex mathematical examples and problems can be solved 
   - 2) The Euler-Cauchy method
   - 3) Modified Euler method
   - 4) By the Runge-Kutta method
+- lb5 
+
+  Topic: Solving a system of two nonlinear equations with two unknowns by Newton's method. In this paper, we consider the Newton method for solving a system of two nonlinear equations with two unknowns
+  
